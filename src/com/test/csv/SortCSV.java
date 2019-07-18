@@ -41,6 +41,7 @@ private static BufferedReader in;
 				}
 			}
 			
+			
 			String sortOrder = "1";
 			System.out.println("Select sorting order");
 			System.out.println("1. ASC");
